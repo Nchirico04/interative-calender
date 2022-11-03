@@ -1,0 +1,7 @@
+#app-calender {
+    display: grid;
+    grid-template-columns: 1fr,
+    grid-template-rows: green;
+    height: 100;
+    
+}
